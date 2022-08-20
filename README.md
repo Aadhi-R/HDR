@@ -17,5 +17,4 @@ recognition_" published under the 'Arabian Journal for Science and Engineering'.
 
 4.This design employs DenseNet-41 architecture that acts as the feature-extraction tool. It reduces the number of parameters to a bare minimum which makes it cost-efficient. It holds the winning accuracy of 99.78%.
 
-
-
+![Untitled](https://user-images.githubusercontent.com/111218876/185755485-2965b8c4-8687-4fbf-8206-5210f4b75a05.png)
